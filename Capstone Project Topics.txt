@@ -8,3 +8,4 @@ Api Link:https://jikan.moe/
 Animedex with flask
 GitHub repo: https://github.com/TechShreyash/AnimeDex
 Api: TechZApi
+Api Key Link (Telegram): https://telegram.me/TechZApiBot
