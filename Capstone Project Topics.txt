@@ -11,3 +11,5 @@ Api: TechZApi
 Api Key Link (Telegram): https://telegram.me/TechZApiBot
 
 Gogoanime Api Link (CDN) : https://www.jsdelivr.com/package/npm/gogoanime-api-new
+
+UI Design: https://wordpress.iqonic.design/product/wp/streamit/movie/the-great-emperor/
